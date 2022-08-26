@@ -11,7 +11,3 @@ getting information from an API
 
 **Client:** HTML, CSS, React
 
-## Screenshots
-
-![Desktop Screenshot](./screenshots/desktop-app-screenshot.png)
-![Mobile Screenshot](./screenshots/mobile-app-screenshot.png)
